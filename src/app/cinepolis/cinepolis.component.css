@@ -1,0 +1,67 @@
+.cinepolis-container {
+    background-color: #1553da;
+    color: white;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    width: 400px;
+    margin: 50px auto;
+    text-align: center;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .header h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+  }
+  
+  .form-container {
+    margin-bottom: 20px;
+  }
+  
+  .inputs {
+    text-align: left;
+    margin-bottom: 20px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  input[type="number"], input[type="checkbox"] {
+    padding: 5px;
+    margin-bottom: 10px;
+    width: 100%;
+  }
+  
+  .actions {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  button {
+    background-color: #FFCC00;
+    color: black;
+    border: none;
+    padding: 10px;
+    margin: 5px;
+    cursor: pointer;
+    width: 150px;
+    font-size: 16px;
+  }
+  
+  button:hover {
+    background-color: #FFC107;
+  }
+  
+  .outputs {
+    margin-top: 20px;
+    background-color: #fff;
+    color: #1E3A78;
+    padding: 15px;
+    border-radius: 5px;
+    font-size: 18px;
+  }
+  
